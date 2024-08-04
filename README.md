@@ -1,1 +1,1 @@
-# shopping store with react and vite
+#-shopping-react
