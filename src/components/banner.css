@@ -1,0 +1,8 @@
+.main-banner{
+    background: rgb(2,0,36);
+    background: -moz-linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(232,232,232,1) 0%, rgba(142,141,141,1) 100%, rgba(0,0,0,0.8743872549019608) 100%);
+    background: -webkit-linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(232,232,232,1) 0%, rgba(142,141,141,1) 100%, rgba(0,0,0,0.8743872549019608) 100%);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(232,232,232,1) 0%, rgba(142,141,141,1) 100%, rgba(0,0,0,0.8743872549019608) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#020024",endColorstr="#000000",GradientType=1);
+}
+
